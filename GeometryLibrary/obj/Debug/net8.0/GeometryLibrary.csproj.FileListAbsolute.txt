@@ -1,0 +1,12 @@
+D:\Repos\GeometryLibrary\GeometryLibrary\bin\Debug\net8.0\GeometryLibrary.deps.json
+D:\Repos\GeometryLibrary\GeometryLibrary\bin\Debug\net8.0\GeometryLibrary.dll
+D:\Repos\GeometryLibrary\GeometryLibrary\bin\Debug\net8.0\GeometryLibrary.pdb
+D:\Repos\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.csproj.AssemblyReference.cache
+D:\Repos\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.AssemblyInfoInputs.cache
+D:\Repos\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.AssemblyInfo.cs
+D:\Repos\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.csproj.CoreCompileInputs.cache
+D:\Repos\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.dll
+D:\Repos\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\refint\GeometryLibrary.dll
+D:\Repos\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.pdb
+D:\Repos\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\ref\GeometryLibrary.dll
